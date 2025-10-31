@@ -1,0 +1,679 @@
+{
+  "brands": [
+    {
+      "name": "Abarth",
+      "country": "Italy",
+      "logo": null
+    },
+    {
+      "name": "AC",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Acura",
+      "country": "Japan",
+      "logo": null
+    },
+    {
+      "name": "AIXAM",
+      "country": "France",
+      "logo": null
+    },
+    {
+      "name": "Alfa Romeo",
+      "country": "Italy",
+      "logo": null
+    },
+    {
+      "name": "Alpine",
+      "country": "France",
+      "logo": null
+    },
+    {
+      "name": "Arash",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Ariel",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Artega",
+      "country": "Germany",
+      "logo": null
+    },
+    {
+      "name": "Ascari",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Aston Martin",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Audi",
+      "country": "Germany",
+      "logo": null
+    },
+    {
+      "name": "AvtoVAZ",
+      "country": "Russia",
+      "logo": null
+    },
+    {
+      "name": "BAIC",
+      "country": "China",
+      "logo": null
+    },
+    {
+      "name": "Bentley",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "BMW",
+      "country": "Germany",
+      "logo": null
+    },
+    {
+      "name": "Borgward",
+      "country": "Germany",
+      "logo": null
+    },
+    {
+      "name": "Brilliance",
+      "country": "China",
+      "logo": null
+    },
+    {
+      "name": "Bristol",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Bufori",
+      "country": "Malaysia",
+      "logo": null
+    },
+    {
+      "name": "Bugatti",
+      "country": "France",
+      "logo": null
+    },
+    {
+      "name": "Buick",
+      "country": "USA",
+      "logo": null
+    },
+    {
+      "name": "Byton",
+      "country": "China",
+      "logo": null
+    },
+    {
+      "name": "Cadillac",
+      "country": "USA",
+      "logo": null
+    },
+    {
+      "name": "Caterham",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Changan",
+      "country": "China",
+      "logo": null
+    },
+    {
+      "name": "Changhe",
+      "country": "China",
+      "logo": null
+    },
+    {
+      "name": "Chery",
+      "country": "China",
+      "logo": null
+    },
+    {
+      "name": "Chevrolet",
+      "country": "USA",
+      "logo": null
+    },
+    {
+      "name": "Chrysler",
+      "country": "USA",
+      "logo": null
+    },
+    {
+      "name": "Citroen",
+      "country": "France",
+      "logo": null
+    },
+    {
+      "name": "Coda",
+      "country": "USA",
+      "logo": null
+    },
+    {
+      "name": "CT&T",
+      "country": "South Korea",
+      "logo": null
+    },
+    {
+      "name": "Dacia",
+      "country": "Romania",
+      "logo": null
+    },
+    {
+      "name": "Daewoo",
+      "country": "South Korea",
+      "logo": null
+    },
+    {
+      "name": "DAF",
+      "country": "Netherlands",
+      "logo": null
+    },
+    {
+      "name": "Daihatsu",
+      "country": "Japan",
+      "logo": null
+    },
+    {
+      "name": "Datsun",
+      "country": "Japan",
+      "logo": null
+    },
+    {
+      "name": "Dodge",
+      "country": "USA",
+      "logo": null
+    },
+    {
+      "name": "Donkervoort",
+      "country": "Netherlands",
+      "logo": null
+    },
+    {
+      "name": "DS",
+      "country": "France",
+      "logo": null
+    },
+    {
+      "name": "Ferrari",
+      "country": "Italy",
+      "logo": null
+    },
+    {
+      "name": "Fiat",
+      "country": "Italy",
+      "logo": null
+    },
+    {
+      "name": "Fisker",
+      "country": "USA",
+      "logo": null
+    },
+    {
+      "name": "Force Motors",
+      "country": "India",
+      "logo": null
+    },
+    {
+      "name": "Ford",
+      "country": "USA",
+      "logo": null
+    },
+    {
+      "name": "Foton",
+      "country": "China",
+      "logo": null
+    },
+    {
+      "name": "GAZ",
+      "country": "Russia",
+      "logo": null
+    },
+    {
+      "name": "Geely",
+      "country": "China",
+      "logo": null
+    },
+    {
+      "name": "Genesis",
+      "country": "South Korea",
+      "logo": null
+    },
+    {
+      "name": "Ginetta",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "GMC",
+      "country": "USA",
+      "logo": null
+    },
+    {
+      "name": "Great Wall",
+      "country": "China",
+      "logo": null
+    },
+    {
+      "name": "Haima",
+      "country": "China",
+      "logo": null
+    },
+    {
+      "name": "Hino",
+      "country": "Japan",
+      "logo": null
+    },
+    {
+      "name": "Holden",
+      "country": "Australia",
+      "logo": null
+    },
+    {
+      "name": "Honda",
+      "country": "Japan",
+      "logo": null
+    },
+    {
+      "name": "Hyundai",
+      "country": "South Korea",
+      "logo": null
+    },
+    {
+      "name": "Iconic",
+      "country": "USA",
+      "logo": null
+    },
+    {
+      "name": "Infiniti",
+      "country": "Japan",
+      "logo": null
+    },
+    {
+      "name": "Isuzu",
+      "country": "Japan",
+      "logo": null
+    },
+    {
+      "name": "JAC",
+      "country": "China",
+      "logo": null
+    },
+    {
+      "name": "Jaguar",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Jeep",
+      "country": "USA",
+      "logo": null
+    },
+    {
+      "name": "JMC",
+      "country": "China",
+      "logo": null
+    },
+    {
+      "name": "Kia",
+      "country": "South Korea",
+      "logo": null
+    },
+    {
+      "name": "Koenigsegg",
+      "country": "Sweden",
+      "logo": null
+    },
+    {
+      "name": "Lamborghini",
+      "country": "Italy",
+      "logo": null
+    },
+    {
+      "name": "Lancia",
+      "country": "Italy",
+      "logo": null
+    },
+    {
+      "name": "Land Rover",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Landwind",
+      "country": "China",
+      "logo": null
+    },
+    {
+      "name": "Lexus",
+      "country": "Japan",
+      "logo": null
+    },
+    {
+      "name": "Lifan",
+      "country": "China",
+      "logo": null
+    },
+    {
+      "name": "Lincoln",
+      "country": "USA",
+      "logo": null
+    },
+    {
+      "name": "Lotus",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Luxgen",
+      "country": "Taiwan",
+      "logo": null
+    },
+    {
+      "name": "Magna Steyr",
+      "country": "Austria",
+      "logo": null
+    },
+    {
+      "name": "Mahindra",
+      "country": "India",
+      "logo": null
+    },
+    {
+      "name": "Maserati",
+      "country": "Italy",
+      "logo": null
+    },
+    {
+      "name": "Maxus",
+      "country": "China",
+      "logo": null
+    },
+    {
+      "name": "Maybach",
+      "country": "Germany",
+      "logo": null
+    },
+    {
+      "name": "Mazda",
+      "country": "Japan",
+      "logo": null
+    },
+    {
+      "name": "Mazzanti",
+      "country": "Italy",
+      "logo": null
+    },
+    {
+      "name": "McLaren",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Mercedes-Benz",
+      "country": "Germany",
+      "logo": null
+    },
+    {
+      "name": "MG",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Mini",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Mitsubishi",
+      "country": "Japan",
+      "logo": null
+    },
+    {
+      "name": "Mitsuoka",
+      "country": "Japan",
+      "logo": null
+    },
+    {
+      "name": "Morgan",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Morris",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "NIO",
+      "country": "China",
+      "logo": null
+    },
+    {
+      "name": "Nissan",
+      "country": "Japan",
+      "logo": null
+    },
+    {
+      "name": "Noble",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Opel",
+      "country": "Germany",
+      "logo": null
+    },
+    {
+      "name": "Pagani",
+      "country": "Italy",
+      "logo": null
+    },
+    {
+      "name": "Perodua",
+      "country": "Malaysia",
+      "logo": null
+    },
+    {
+      "name": "Peugeot",
+      "country": "France",
+      "logo": null
+    },
+    {
+      "name": "Polestar",
+      "country": "Sweden",
+      "logo": null
+    },
+    {
+      "name": "Pontiac",
+      "country": "USA",
+      "logo": null
+    },
+    {
+      "name": "Porsche",
+      "country": "Germany",
+      "logo": null
+    },
+    {
+      "name": "Proton",
+      "country": "Malaysia",
+      "logo": null
+    },
+    {
+      "name": "Ram",
+      "country": "USA",
+      "logo": null
+    },
+    {
+      "name": "Reliant",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Renault",
+      "country": "France",
+      "logo": null
+    },
+    {
+      "name": "Rimac",
+      "country": "Croatia",
+      "logo": null
+    },
+    {
+      "name": "Rivian",
+      "country": "USA",
+      "logo": null
+    },
+    {
+      "name": "Rolls-Royce",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "RUF",
+      "country": "Germany",
+      "logo": null
+    },
+    {
+      "name": "Saab",
+      "country": "Sweden",
+      "logo": null
+    },
+    {
+      "name": "Saleen",
+      "country": "USA",
+      "logo": null
+    },
+    {
+      "name": "Saturn",
+      "country": "USA",
+      "logo": null
+    },
+    {
+      "name": "Scion",
+      "country": "Japan",
+      "logo": null
+    },
+    {
+      "name": "SEAT",
+      "country": "Spain",
+      "logo": null
+    },
+    {
+      "name": "Senova",
+      "country": "China",
+      "logo": null
+    },
+    {
+      "name": "SIN Cars",
+      "country": "Bulgaria",
+      "logo": null
+    },
+    {
+      "name": "Skoda",
+      "country": "Czech Republic",
+      "logo": null
+    },
+    {
+      "name": "Smart",
+      "country": "Germany",
+      "logo": null
+    },
+    {
+      "name": "Spyker",
+      "country": "Netherlands",
+      "logo": null
+    },
+    {
+      "name": "Ssangyong",
+      "country": "South Korea",
+      "logo": null
+    },
+    {
+      "name": "Subaru",
+      "country": "Japan",
+      "logo": null
+    },
+    {
+      "name": "Suzuki",
+      "country": "Japan",
+      "logo": null
+    },
+    {
+      "name": "Tata",
+      "country": "India",
+      "logo": null
+    },
+    {
+      "name": "Tatra",
+      "country": "Czech Republic",
+      "logo": null
+    },
+    {
+      "name": "Tesla",
+      "country": "USA",
+      "logo": null
+    },
+    {
+      "name": "Toyota",
+      "country": "Japan",
+      "logo": null
+    },
+    {
+      "name": "Trumpchi",
+      "country": "China",
+      "logo": null
+    },
+    {
+      "name": "TVR",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Vauxhall",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Volkswagen",
+      "country": "Germany",
+      "logo": null
+    },
+    {
+      "name": "Volvo",
+      "country": "Sweden",
+      "logo": null
+    },
+    {
+      "name": "W Motors",
+      "country": "United Arab Emirates",
+      "logo": null
+    },
+    {
+      "name": "Wiesmann",
+      "country": "Germany",
+      "logo": null
+    },
+    {
+      "name": "Zenos",
+      "country": "United Kingdom",
+      "logo": null
+    },
+    {
+      "name": "Zenvo",
+      "country": "Denmark",
+      "logo": null
+    }
+  ]
+}

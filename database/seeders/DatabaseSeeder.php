@@ -15,11 +15,16 @@ class DatabaseSeeder extends Seeder
      */
     public function run(): void
     {
-        // User::factory(10)->create();
-
-        User::factory()->create([
-            'name' => 'Test User',
-            'email' => 'test@example.com',
+        $this->call([
+            CarBrandWithModelsSeeder::class,
+            SystemRoleSeeder::class,
+            SubscriptionPlanSeeder::class
         ]);
+        User::create([
+            'name' => 'Super Admin',
+            'email' => 'super@test.com',
+            'password' => 'password',
+
+        ])->assignRole('super_admin');
     }
 }
