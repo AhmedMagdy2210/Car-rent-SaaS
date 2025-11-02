@@ -20,6 +20,7 @@ return new class extends Migration {
             $table->string('timezone')->default('EET');
             $table->string('currency')->default('EGP');
             $table->foreignId('subscription_plan_id')->nullable()->constrained('subscription_plans')->restrictOnDelete();
+            $table->dateTime('subscription_ends_at')->nullable();
             $table->enum('status', ['active', 'suspended', 'inactive'])->default('active');
             $table->softDeletes();
             $table->timestamps();

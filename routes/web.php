@@ -1,7 +1,9 @@
 <?php
 
+use App\Http\Controllers\System\Auth\AuthController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('welcome');
+    dd("hello");
 });
+// Route::get('/users', [AuthController::class, 'test']);
